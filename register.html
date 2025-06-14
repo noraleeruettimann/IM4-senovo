@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Registrieren – Senovo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/register.css" />
+</head>
+
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="/homepage.html" class="logo-link">
+      <img src="resources/assets/logo/logo.png" alt="senovo Logo" class="logo"/>
+    </a>
+    <ul class="nav-links">
+      <li><a href="/protected.html">Überblick</a></li>
+      <li><a href="/blog.html">Blog</a></li>
+      <li><a href="/ueberuns.html">Über uns</a></li>
+      <li><a href="/contact.html">Kontakt</a></li>
+    </ul>
+  </div>
+</header>
+
+<main class="content centered">
+  <div class="intro">
+    <h1>Jetzt<br>Registrieren.</h1>
+    <p>Erstelle dein persönliches Konto und plane deine Pensionierung<br> Schritt für Schritt mit Senovo.</p>
+    <p>Bereits registriert? <a href="login.html" class="inline-link">Hier einloggen</a>.</p>
+  </div>
+
+  <div class="form-wrapper">
+    <div class="form-section">
+      <form id="registerForm">
+        <input type="text" id="user_name" name="user_name" placeholder="Name" required />
+        <input type="email" id="email" name="email" placeholder="E-Mail" required />
+        <input type="password" id="password" name="password" placeholder="Passwort" required />
+        <input type="date" id="pensdate" name="pensdate" required />
+        <button type="submit">Registrieren</button>
+      </form>
+    </div>
+  </div>
+</main>
+
+
+<footer class="footer">
+  <div class="footer-container">
+    <a href="/homepage.html">
+      <img src="resources/assets/logo/logo.png" alt="senovo Logo" class="footer-logo" />
+    </a>
+    <ul class="footer-links">
+      <li><a href="/blog.html">Blog</a></li>
+      <li><a href="/ueberuns.html">Über uns</a></li>
+      <li><a href="/contact.html">Kontakt</a></li>
+      <li><a href="/impressum.html">Impressum</a></li>
+    </ul>
+  </div>
+</footer>
+
+<script src="js/register.js"></script>
+</body>
+</html>

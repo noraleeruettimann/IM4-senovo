@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kontakt – Senovo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/contact.css" />
+</head>
+<body>
+
+<header class="header">
+  <div class="container nav">
+    <a href="/homepage.html" class="logo-link">
+      <img src="resources/assets/logo/logo.png" alt="senovo Logo" class="logo" />
+    </a>
+    <ul class="nav-links">
+      <li><a href="/protected.html">Überblick</a></li>
+      <li><a href="/blog.html">Blog</a></li>
+      <li><a href="/ueberuns.html">Über uns</a></li>
+      <li><a href="/contact.html">Kontakt</a></li>
+    </ul>
+  </div>
+</header>
+
+<main class="content" id="contact-content">
+  <div class="intro" id="intro-box">
+    <h1>Wir sind<br>für Sie da.</h1>
+    <p>Hast du Fragen, Wünsche oder ein Anliegen?<br>Zögere nicht, uns zu kontaktieren.</p>
+    <p>Das Senovo-Team freut sich auf deine Nachricht<br>und hilft dir gerne weiter.</p>
+  </div>
+
+  <div class="form-section" id="form-box">
+    <form id="contact-form">
+      <input type="text" name="vorname" placeholder="Vorname" required />
+      <input type="text" name="nachname" placeholder="Nachname" required />
+      <input type="email" name="email" placeholder="E-Mail" required />
+      <textarea name="nachricht" placeholder="Nachricht" required></textarea>
+      <button type="submit">Senden</button>
+    </form>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-container">
+    <a href="/homepage.html">
+      <img src="resources/assets/logo/logo.png" alt="senovo Logo" class="footer-logo" />
+    </a>
+    <ul class="footer-links">
+      <li><a href="/blog.html">Blog</a></li>
+      <li><a href="/ueberuns.html">Über uns</a></li>
+      <li><a href="/contact.html">Kontakt</a></li>
+      <li><a href="/impressum.html">Impressum</a></li>
+    </ul>
+  </div>
+</footer>
+
+<script>
+document.getElementById("contact-form").addEventListener("submit", function (e) {
+  e.preventDefault();
+
+  document.getElementById("intro-box").innerHTML = `
+    <h1>Danke<br>für deine<br>Nachricht.</h1>
+    <p>Wir melden uns bald bei dir.</p>
+  `;
+
+  document.getElementById("form-box").innerHTML = `
+    <div class="pfeil-container">
+      <img src="resources/assets/pfeil.png" alt="Pfeil" class="pfeil-img" />
+    </div>
+  `;
+});
+</script>
+
+</body>
+</html>

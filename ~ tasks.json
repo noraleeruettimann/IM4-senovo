@@ -1,0 +1,135 @@
+[
+  {
+    "title": "AHV-Auszug bestellen",
+    "description": "Prüfe deinen bisherigen Beitragsverlauf. So erkennst du frühzeitig allfällige Lücken.",
+    "links": [
+      "AHV-Kontoauszug bestellen (ZAS)"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "Beitragslücken prüfen (und evtl. schliessen)",
+    "description": "Falls du Lücken im AHV-Verlauf hast, kannst du diese bis max. 5 Jahre rückwirkend einzahlen.",
+    "links": [
+      "Merkblatt: Beitragslücken AHV"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "Vorsorgeguthaben checken (PK + 3. Säule)",
+    "description": "Frage bei deiner Pensionskasse nach einem aktuellen Stand deines Guthabens. Prüfe auch deine 3a-Konten.",
+    "links": [
+      "Vergleichsrechner 3. Säule"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "Frühpensionierung simulieren (falls relevant)",
+    "description": "Kläre, ob du früher in Rente gehen möchtest und was das für deine Finanzen bedeutet.",
+    "links": [
+      "AHV-Rentensimulation (Beispiel BSV)",
+      "PK-Simulation bei deiner Pensionskasse anfragen"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "Budgetplanung starten: Ruhestandseinkommen vs. Ausgaben",
+    "description": "Wie viel wirst du zur Verfügung haben? Wo kannst du sparen?",
+    "links": [
+      "Budgetrechner Pro Senectute"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "Beratung bei Pensionskasse / Finanzberater:in einholen",
+    "description": "Ein persönliches Beratungsgespräch lohnt sich – z. B. bei deiner PK, Bank oder einer unabhängigen Stelle.",
+    "links": [
+      "VZ Vermögenszentrum – Pensionierungsberatung"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "Wohneigentum prüfen: behalten, verkaufen, verkleinern?",
+    "description": "Kläre, ob dein Wohnraum zu deiner zukünftigen Lebenssituation passt (z. B. Hypothekenlast, Barrierefreiheit).",
+    "links": [
+      "Tipps zur Wohneigentum im Alter – HEV Schweiz"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "Steuerliche Auswirkungen der Pensionierung prüfen",
+    "description": "Bezüge aus der Pensionskasse oder 3. Säule sind steuerpflichtig – meist separat als Kapitalleistung.",
+    "links": [
+      "Steuerrechner für Kapitalbezüge (Zürich Beispiel)"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "3. Säule analysieren: Auszahlung staffeln?",
+    "description": "3a-Konten können gestaffelt über mehrere Jahre bezogen werden, was steuerlich günstiger ist.",
+    "links": [
+      "Artikel von comparis zur Staffelung"
+    ],
+    "days_before": 1095
+  },
+  {
+    "title": "AHV-Anmeldung vorbereiten",
+    "description": "Rechtzeitig bei der kantonalen Ausgleichskasse anmelden (3–6 Monate vorher empfohlen).",
+    "links": [
+      "Kantonale Ausgleichskassen Übersicht"
+    ],
+    "days_before": 548
+  },
+  {
+    "title": "Kapital oder Rente (PK) entscheiden",
+    "description": "Kapitalbezug ist einmalig und steuerpflichtig, die Rente lebenslang – Vor- und Nachteile abwägen.",
+    "links": [
+      "VZ Vergleich: Kapital oder Rente?"
+    ],
+    "days_before": 548
+  },
+  {
+    "title": "BVG-Leistung berechnen lassen",
+    "description": "Deine Pensionskasse berechnet deine Rente – individuelle Berechnung und Anmeldeformulare einholen.",
+    "links": [
+      "Kontakt: Deine Pensionskasse direkt"
+    ],
+    "days_before": 548
+  },
+  {
+    "title": "Krankenkassenmodell prüfen",
+    "description": "Anpassung der Franchise, Wahl des geeigneten Modells (Standard vs. HMO / Telmed), evtl. Zusatzversicherungen neu bewerten.",
+    "links": [
+      "Krankenkassenvergleich bonus.ch"
+    ],
+    "days_before": 548
+  },
+  {
+    "title": "Unfallversicherung klären",
+    "description": "Die UV endet bei Erwerbsaufgabe – du musst Unfalldeckung über die Krankenkasse aktivieren lassen.",
+    "links": [
+      "Info zur Unfalldeckung bei Krankenkassen"
+    ],
+    "days_before": 548
+  },
+  {
+    "title": "Arbeitsvertrag & Kündigungsfristen klären",
+    "description": "Zeitgerechte Kündigung mit deinem Arbeitgeber abstimmen, auch Thema Restferien / Pensumsreduktion.",
+    "links": [],
+    "days_before": 548
+  },
+  {
+    "title": "Auslandspläne melden",
+    "description": "Wenn du auswandern oder lange reisen möchtest, melde dich bei AHV/PK & Krankenkasse frühzeitig.",
+    "links": [
+      "Merkblatt Auslandaufenthalt AHV"
+    ],
+    "days_before": 548
+  },
+  {
+    "title": "Letzte grössere Anschaffungen vor dem Ruhestand tätigen",
+    "description": "Z. B. Autoersatz, Umbauten, Möbel – solange dein Erwerbseinkommen noch berücksichtigt wird.",
+    "links": [],
+    "days_before": 548
+  }
+]

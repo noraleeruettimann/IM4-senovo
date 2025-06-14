@@ -1,0 +1,270 @@
+/* protected.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+  --primary-dark: #29235C;
+  --primary-light: #E8E3DD;
+  --primary-hover: #C6C2E4;
+  --light-hover: #A29E98;
+  --text: #29235C;
+  --font: 'Inter', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background-color: white;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 2000px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+/* Header */
+.header {
+  background-color: var(--primary-dark);
+  height: 55px;
+  padding: 0 ;
+  display: flex;
+  align-items: center;
+  clip-path: inset(0);
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.logo-link {
+  display: flex;
+  align-items: left;
+}
+
+.logo {
+  height: 20px;
+  width: auto;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li a {
+  color: var(--primary-light);
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.nav-links li a:hover {
+  color: var(--primary-hover);
+}
+/* Hero Section */
+
+.hero {
+  display: flex;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.hero .container {
+  padding: 0 134px;
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.hero h1 {
+  font-size: 64px;
+  font-weight: 700;
+  color: var(--primary-dark);
+  line-height: 1.1;
+  max-width: 900px;
+  margin-bottom: 40px;
+}
+
+
+/* Intro Box */
+.intro-box {
+  background-color: var(--primary-light);
+  padding: 80px 120px 80px 250px;
+  margin-bottom: 100px;
+  clip-path: polygon(15% 0, 100% 0, 100% 100%, 10% 100%);
+}
+
+.intro-box .container {
+  max-width: 1000px;
+  margin-left: 0 auto;
+  padding: 0 80px;
+}
+
+.intro-box h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--primary-dark);
+  margin-bottom: 24px;
+  line-height: 1.4;
+}
+
+.intro-box p {
+  font-size: 18px;
+  color: var(--primary-dark);
+  max-width: 860px;
+  line-height: 1.6;
+}
+
+/* Buttons */
+.btn {
+  width: 223px;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 8px; /* oder z. B. 10px */
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.2s, color 0.2s;
+  clip-path: inset(0);
+}
+
+.btn-dark {
+  background-color: var(--primary-dark);
+  color: var(--primary-light);
+  font-weight: bold;
+  padding: 14px 32px;
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  border: none;
+}
+
+.btn-dark:hover {
+  background-color: #c6c2e4;
+  color: #29235c;
+  }
+
+/* Footer */
+.footer {
+  background-color: var(--primary-dark);
+  padding: 40px 134px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-logo {
+  height: 36px;
+  width: auto;
+}
+
+.footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+.footer-links li {
+  margin-bottom: 12px;
+}
+
+.footer-links a {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--primary-light);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: #d1cfc9;
+}
+.checklist-section {
+  background-color: var(--primary-dark);
+  padding: 40px;
+  margin-bottom: 40px;
+  color: var(--primary-light);
+  border-radius: 12px;
+}
+
+.checklist-section h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.task {
+  background-color: #f4f2ef;
+  color: var(--text);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.task label {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.task input[type="checkbox"] {
+  margin-top: 4px;
+  width: 20px;
+  height: 20px;
+  accent-color: var(--primary-dark);
+}
+
+.task p {
+  font-weight: 400;
+  margin: 6px 0 12px 0;
+  font-size: 15px;
+}
+
+.task a {
+  color: var(--primary-dark);
+  font-weight: 500;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.task a:hover {
+  color: var(--primary-hover);
+}
+
+.task.completed {
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+}
+
+.task.completed strong,
+.task.completed p,
+.task.completed a {
+  text-decoration: line-through;
+  color: #999;
+}
+
+  #logoutBtn {
+  margin: 60px auto 100px;
+  display: block;
+}

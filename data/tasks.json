@@ -1,0 +1,253 @@
+[
+  {
+    "group": "2–3",
+    "title": "AHV-Auszug bestellen",
+    "description": "Prüfe deinen bisherigen Beitragsverlauf. So erkennst du frühzeitig allfällige Lücken.",
+    "links": [
+      { "label": "AHV-Kontoauszug bestellen (ZAS)", "url": "https://www.zas.admin.ch/zas/de/home/part/anmeldung-zur-ahv-rente.html" }
+    ]
+  },
+  {
+    "group": "2–3",
+    "title": "Beitragslücken prüfen (und evtl. schliessen)",
+    "description": "Falls du Lücken im AHV-Verlauf hast, kannst du diese bis max. 5 Jahre rückwirkend einzahlen.",
+    "links": [
+      { "label": "Merkblatt: Beitragslücken AHV", "url": "https://www.ahv-iv.ch/p/318.720.d" }
+    ]
+  },
+  {
+    "group": "2–3",
+    "title": "Vorsorgeguthaben checken (PK + 3. Säule)",
+    "description": "Frage bei deiner Pensionskasse nach einem aktuellen Stand deines Guthabens. Prüfe auch deine 3a-Konten.",
+    "links": [
+      { "label": "Vergleichsrechner 3. Säule", "url": "https://www.vergleichsportal.ch/vorsorge/3-saeule-rechner" }
+    ]
+  },
+    {
+    "group": "2–3",
+    "title": "Frühpensionierung simulieren",
+    "description": "Kläre, ob du früher in Rente gehen möchtest und was das für deine Finanzen bedeutet.",
+    "links": [
+      { "label": "AHV-Rentensimulation (Beispiel BSV)", "url": "https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ahv/finanzen-ahv.html" }
+    ]
+  },
+      {
+    "group": "2–3",
+    "title": "Budgetplanung starten: Ruhestandseinkommen vs. Ausgaben",
+    "description": "Wie viel wirst du zur Verfügung haben? Wo kannst du sparen?",
+    "links": [
+      { "label": "Budgetrechner Pro Senectute", "url": "https://www.prosenectute.ch/de/dienstleistungen/orientierungshilfen/el-rechner.html" }
+    ]
+  },
+        {
+    "group": "2–3",
+    "title": "Beratung bei Pensionskasse / Finanzberater:in einholen",
+    "description": "Ein persönliches Beratungsgespräch lohnt sich – z.B. bei deiner PK, Bank oder einer unabhängigen Stelle.",
+    "links": [
+      { "label": "VZ Vermögenszentrum – Pensionierungsberatung", "url": "https://www.vermoegenszentrum.ch/" }
+    ]
+  },
+          {
+    "group": "2–3",
+    "title": "Wohneigentum prüfen: behalten, verkaufen, verkleinern?",
+    "description": "Kläre, ob dein Wohnraum zu deiner zukünftigen Lebenssituation passt (z. B. Hypothekenlast, Barrierefreiheit).",
+    "links": [
+      { "label": "Tipps zur Wohneigentum im Alter – HEV Schweiz", "url": "https://www.hev-schweiz.ch/" }
+    ]
+  },
+            {
+    "group": "2–3",
+    "title": "Steuerliche Auswirkungen der Pensionierung prüfen",
+    "description": "Bezüge aus der Pensionskasse oder 3. Säule sind steuerpflichtig – meist separat als Kapitalleistung.",
+    "links": [
+      { "label": "Steuerrechner für Kapitalbezüge (Zürich Beispiel)", "url": "https://www.zh.ch/de/steuern-finanzen/steuern/steuern-natuerliche-personen/steuererklaerung-natuerliche-personen/steuerrechner.html" }
+    ]
+  },
+              {
+    "group": "2–3",
+    "title": "3. Säule analysieren: Auszahlung staffeln?",
+    "description": "3a-Konten können gestaffelt über mehrere Jahre bezogen werden, was steuerlich günstiger ist.",
+    "links": [
+      { "label": " Artikel von comparis zur Staffelung", "url": "https://www.comparis.ch/krankenkassen/system/altersstufe" }
+    ]
+  },
+  {
+    "group": "12–18",
+    "title": "AHV-Anmeldung vorbereiten",
+    "description": "Rechtzeitig bei der kantonalen Ausgleichskasse anmelden (3–6 Monate vorher empfohlen).",
+    "links": [
+      { "label": "Kantonale Ausgleichskassen Übersicht", "url": "https://www.ahv-iv.ch/de/Sozialversicherungen/ahv/anmeldung" }
+    ]
+  },
+  {
+    "group": "12–18",
+    "title": "Kapital oder Rente (PK) entscheiden",
+    "description": "Kapitalbezug ist einmalig und steuerpflichtig, die Rente lebenslang – Vor- und Nachteile abwägen.",
+    "links": [
+      { "label": "VZ Vergleich: Kapital oder Rente?", "url": "https://www.vermoegenszentrum.ch/artikel/kapital-oder-rente" }
+    ]
+  },
+  {
+    "group": "12–18",
+    "title": "BVG-Leistung berechnen lassen",
+    "description": "Deine Pensionskasse berechnet deine Rente – individuelle Berechnung und Anmeldeformulare einholen.",
+    "links": [
+      { "label": "Kontakt: Deine Pensionskasse direkt", "url": "#" }
+    ]
+  },
+  {
+    "group": "12–18",
+    "title": "Krankenkassenmodell prüfen",
+    "description": "Anpassung der Franchise, Wahl des geeigneten Modells (Standard vs. HMO / Telmed), evtl. Zusatzversicherungen neu bewerten.",
+    "links": [
+      { "label": "Krankenkassenvergleich bonus.ch", "url": "https://www.bonus.ch/Krankenkassen/vergleich.aspx" }
+    ]
+  },
+  {
+    "group": "12–18",
+    "title": "Unfallversicherung klären",
+    "description": "Die UV endet bei Erwerbsaufgabe – du musst Unfalldeckung über die Krankenkasse aktivieren lassen.",
+    "links": [
+      { "label": "Info zur Unfalldeckung bei Krankenkassen", "url": "https://www.suva.ch/de-ch/praevention/themen/unfallversicherung-nach-berufsaufgabe" }
+    ]
+  },
+  {
+    "group": "12–18",
+    "title": "Arbeitsvertrag & Kündigungsfristen klären",
+    "description": "Zeitgerechte Kündigung mit deinem Arbeitgeber abstimmen, auch Thema Restferien / Pensumsreduktion.",
+    "links": []
+  },
+  {
+    "group": "12–18",
+    "title": "Auslandspläne melden",
+    "description": "Wenn du auswandern oder lange reisen möchtest, melde dich bei AHV/PK & Krankenkasse frühzeitig.",
+    "links": [
+      { "label": "Merkblatt Auslandaufenthalt AHV", "url": "https://www.ahv-iv.ch/p/890.010.d" }
+    ]
+  },
+  {
+    "group": "12–18",
+    "title": "Letzte grössere Anschaffungen vor dem Ruhestand tätigen",
+    "description": "Z. B. Autoersatz, Umbauten, Möbel – solange dein Erwerbseinkommen noch berücksichtigt wird.",
+    "links": []
+  },
+
+  {
+    "group": "6",
+    "title": "AHV-Anmeldung definitiv einreichen",
+    "description": "Spätestens 3–4 Monate vor dem ersten Rentenbezug – bei der Ausgleichskasse.",
+    "links": [
+      { "label": "AHV-Anmeldeformular", "url": "https://www.ahv-iv.ch/p/318.720.d" }
+    ]
+  },
+  {
+    "group": "6",
+    "title": "Antrag auf Auszahlung der Pensionskasse stellen",
+    "description": "Wenn du Kapital beziehen willst, braucht es eine frühzeitige schriftliche Mitteilung.",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "3. Säule koordinieren / auflösen",
+    "description": "Du kannst dein 3a-Konto 5 Jahre vor/nach dem Rentenalter beziehen – mit Bank / Versicherung koordinieren.",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "Neue Versicherungen abschliessen",
+    "description": "Unfalldeckung, Privathaftpflicht, evtl. Rechtsschutz – neu organisieren oder prüfen.",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "Budget aktualisieren",
+    "description": "Mit den definitiven Zahlen rechnen: AHV, Pensionskasse, Fixkosten – Reserve einplanen.",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "Steueroptimierung prüfen",
+    "description": "Kapitalbezug staffeln, Ehepartner berücksichtigen, Zuzug / Wegzug melden.",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "Letzter Arbeitstag planen",
+    "description": "Was ist mit Verabschiedung, Restferien, Danksagung, Offboarding?",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "Digitale Dienste umstellen",
+    "description": "Private E-Mail nutzen, wichtige Daten sichern, evtl. berufliche Zugänge schliessen.",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "Tagesstruktur vorbereiten",
+    "description": "Plane deine neue Woche – z. B. Bewegung, Hobbys, Kurse, Ehrenamt.",
+    "links": []
+  },
+  {
+    "group": "6",
+    "title": "Freiwillige AHV-Beiträge prüfen",
+    "description": "Nur nötig bei Beitragslücken oder wenn du weiter freiwillig versichert sein möchtest (z. B. bei Auslandsaufenthalt).",
+    "links": []
+  },
+
+  {
+    "group": "nach",
+    "title": "Zahlungen prüfen",
+    "description": "Kommen AHV, Pensionskasse, 3. Säule pünktlich? Gutschriften kontrollieren.",
+    "links": []
+  },
+  {
+    "group": "nach",
+    "title": "Steuererklärung als Pensionierte:r korrekt ausfüllen",
+    "description": "Neue Rubriken beachten: Renten, Kapitalbezüge, Abzüge anpassen.",
+    "links": []
+  },
+  {
+    "group": "nach",
+    "title": "Budget kontrollieren & nachjustieren",
+    "description": "Wie sieht’s mit Alltagskosten, Freizeit, Spontankäufen aus?",
+    "links": []
+  },
+  {
+    "group": "nach",
+    "title": "Versicherungen finalisieren",
+    "description": "Prüfen, ob alle Verträge aktuell sind: Hausrat, Rechtsschutz, Zusatzversicherungen, etc.",
+    "links": []
+  },
+  {
+    "group": "nach",
+    "title": "Freiwilligenarbeit aufnehmen (wenn gewünscht)",
+    "description": "Engagiere dich ehrenamtlich, z. B. bei einer gemeinnützigen Organisation.",
+    "links": [
+      { "label": "Benevol Schweiz", "url": "https://www.benevol.ch/" },
+      { "label": "Karma Lama", "url": "#" }
+    ]
+  },
+  {
+    "group": "nach",
+    "title": "Hobbys & Kurse starten",
+    "description": "Nimm dir bewusst Zeit für deine Interessen und bilde dich weiter.",
+    "links": [
+      { "label": "Volkshochschulen Schweiz", "url": "https://www.vhs.ch/" },
+      { "label": "Pro Senectute Kurse & Freizeit", "url": "https://www.prosenectute.ch/de/freizeit.html" }
+    ]
+  },
+  {
+    "group": "nach",
+    "title": "Tagesstruktur reflektieren / anpassen",
+    "description": "Was fehlt? Wo wünschst du dir mehr Ausgleich oder soziale Kontakte?",
+    "links": []
+  },
+  {
+    "group": "nach",
+    "title": "Soziale Kontakte pflegen",
+    "description": "Mit ehemaligen Kolleg:innen im Austausch bleiben oder neue Leute kennenlernen.",
+    "links": []
+  }
+]
+
