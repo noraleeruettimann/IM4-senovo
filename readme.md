@@ -1,7 +1,7 @@
 **Projektbeschreibung**<br>
 Zu Beginn unseres Projekts haben wir uns folgende zentrale Frage gestellt:<br>
 _Wie kann eine digitale Plattform Menschen in der Schweiz effektiv dabei unterstützen, alle administrativen und organisatorischen Schritte rund um die Pensionierung rechtzeitig, vollständig und verständlich zu erledigen?_<br>
-Aus dieser Fragestellung heraus entstand die Idee für eine Website, die Personen vor oder nach der Pensionierung begleitet. Ziel ist es, Orientierung anhand von Checklisten zu bieten – insbesondere in administrativen Fragen – und dadurch Klarheit, Struktur und Sicherheit in einer oft herausfordernden Lebensphase zu schaffen.
+Aus dieser Fragestellung heraus entwickelten wir eine Website, die Personen vor oder nach der Pensionierung begleitet. Ziel ist es, Orientierung anhand von Checklisten zu bieten – insbesondere in administrativen Fragen – und dadurch Klarheit, Struktur und Sicherheit in einer oft herausfordernden Lebensphase zu schaffen.
 Unsere Website hilft Nutzer:innen, den Überblick zu behalten, sich frühzeitig vorzubereiten und wichtige To-dos nicht zu vergessen. Gleichzeitig richtet sich das Angebot auch an bereits pensionierte Menschen und bietet Inspiration, wie sie ihre neu gewonnene Zeit sinnvoll gestalten können.
 
 **Projektstruktur & Aufbau**<br>
